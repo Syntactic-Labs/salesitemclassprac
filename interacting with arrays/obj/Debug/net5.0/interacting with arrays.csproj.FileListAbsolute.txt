@@ -1,0 +1,16 @@
+C:\repos\interacting with arrays\interacting with arrays\bin\Debug\net5.0\interacting with arrays.exe
+C:\repos\interacting with arrays\interacting with arrays\bin\Debug\net5.0\interacting with arrays.deps.json
+C:\repos\interacting with arrays\interacting with arrays\bin\Debug\net5.0\interacting with arrays.runtimeconfig.json
+C:\repos\interacting with arrays\interacting with arrays\bin\Debug\net5.0\interacting with arrays.runtimeconfig.dev.json
+C:\repos\interacting with arrays\interacting with arrays\bin\Debug\net5.0\interacting with arrays.dll
+C:\repos\interacting with arrays\interacting with arrays\bin\Debug\net5.0\ref\interacting with arrays.dll
+C:\repos\interacting with arrays\interacting with arrays\bin\Debug\net5.0\interacting with arrays.pdb
+C:\repos\interacting with arrays\interacting with arrays\obj\Debug\net5.0\interacting with arrays.csproj.AssemblyReference.cache
+C:\repos\interacting with arrays\interacting with arrays\obj\Debug\net5.0\interacting with arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\interacting with arrays\interacting with arrays\obj\Debug\net5.0\interacting with arrays.AssemblyInfoInputs.cache
+C:\repos\interacting with arrays\interacting with arrays\obj\Debug\net5.0\interacting with arrays.AssemblyInfo.cs
+C:\repos\interacting with arrays\interacting with arrays\obj\Debug\net5.0\interacting with arrays.csproj.CoreCompileInputs.cache
+C:\repos\interacting with arrays\interacting with arrays\obj\Debug\net5.0\interacting with arrays.dll
+C:\repos\interacting with arrays\interacting with arrays\obj\Debug\net5.0\ref\interacting with arrays.dll
+C:\repos\interacting with arrays\interacting with arrays\obj\Debug\net5.0\interacting with arrays.pdb
+C:\repos\interacting with arrays\interacting with arrays\obj\Debug\net5.0\interacting with arrays.genruntimeconfig.cache
